@@ -3,7 +3,7 @@
 #include <jni.h>
 #include <aaudio/AAudio.h>
 #include <stdlib.h>
-#include <re.h>
+#include <re/re.h>
 #include <baresip.h>
 #include "logger.h"
 
